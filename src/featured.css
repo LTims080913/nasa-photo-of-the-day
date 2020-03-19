@@ -1,19 +1,19 @@
 
-body{
+/* body{
     background-color: cadetblue;
-}
-.bottom{
+} */
+/* .bottom{
     display: flex;
     justify-content: space-evenly;
        
-}
-.small{
+} */
+/* .small{
     width: 80%;
     height: 30vh;
     border: 5px solid gray;
     margin-top: 5%;
-}
-.card{
+} */
+/* .card{
     width: 26%;
     background-color: #F4F4FF;
     box-shadow: 5px 5px gray;
@@ -39,4 +39,17 @@ body{
 .right{
     flex-direction: column;
     width: 45%;
+} */
+/* .featured{
+    margin: 5%;
+
 }
+.leftH2{
+    font-size: 3rem;
+}
+.leftP{
+    font-weight: 700;
+    font-size: 1rem;
+    margin-top: 5%;
+    color: darkblue;
+} */
