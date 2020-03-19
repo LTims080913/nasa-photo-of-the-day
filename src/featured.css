@@ -1,0 +1,42 @@
+
+body{
+    background-color: cadetblue;
+}
+.bottom{
+    display: flex;
+    justify-content: space-evenly;
+       
+}
+.small{
+    width: 80%;
+    height: 30vh;
+    border: 5px solid gray;
+    margin-top: 5%;
+}
+.card{
+    width: 26%;
+    background-color: #F4F4FF;
+    box-shadow: 5px 5px gray;
+    margin: 6% 0;
+    opacity: 0.8;
+}
+.p{
+    width: 80%;
+    padding: 0 10% 5%;
+}
+.APOD{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.APODimg{
+    width: 45%;
+
+}
+.left{
+    flex-direction: column;
+    width: 45%;
+}
+.right{
+    flex-direction: column;
+    width: 45%;
+}
